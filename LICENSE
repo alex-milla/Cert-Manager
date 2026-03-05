@@ -1,0 +1,72 @@
+CertManager Community License v1.0
+
+Copyright (c) 2026 Alex Milla (alexmilla.dev)
+
+1. DEFINITIONS
+
+   "Software" refers to CertManager and all associated source code,
+   scripts, documentation, and files distributed in this repository.
+
+   "Author" refers to Alex Milla (alexmilla.dev).
+
+   "Small Organization" refers to any entity, company, or organization
+   with fewer than 50 (fifty) employees, contractors, or equivalent
+   full-time personnel at the time of use.
+
+   "Large Organization" refers to any entity, company, or organization
+   with 50 (fifty) or more employees, contractors, or equivalent
+   full-time personnel at the time of use.
+
+2. GRANT OF RIGHTS
+
+   Permission is hereby granted, free of charge, to any individual or
+   Small Organization obtaining a copy of this Software, to use, copy,
+   modify, merge, publish, and distribute the Software, subject to
+   the conditions below.
+
+3. CONDITIONS
+
+   a) ATTRIBUTION — All copies or substantial portions of the Software
+      must include this license file and the following attribution:
+
+      "CertManager by Alex Milla — https://alexmilla.dev"
+
+   b) PERSONAL USE — Individuals may use, modify, and distribute the
+      Software freely for personal, educational, or non-commercial
+      purposes at no cost.
+
+   c) SMALL ORGANIZATIONS (fewer than 50 employees) — May use, modify,
+      and distribute the Software freely at no cost, including for
+      commercial and internal business purposes.
+
+   d) LARGE ORGANIZATIONS (50 or more employees) — May use, modify,
+      and distribute the Software, provided that a one-time or
+      recurring voluntary contribution is made to the Author through
+      the following platform:
+
+      Buy Me a Coffee: https://buymeacoffee.com/alexmilla
+
+      The suggested minimum contribution is $5 USD (or equivalent),
+      but any amount is accepted and appreciated. This contribution
+      is required per organization, not per user or installation.
+
+   e) MODIFICATIONS — Modified versions of the Software may be
+      distributed under the same terms of this license, provided
+      that the original attribution in section 3(a) is preserved
+      and modifications are clearly documented.
+
+4. NO WARRANTY
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+   OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+   CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. TERMINATION
+
+   This license is automatically terminated for any entity that
+   fails to comply with its terms. Upon termination, all rights
+   granted under this license cease immediately.

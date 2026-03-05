@@ -1,0 +1,15 @@
+# Auto-generated files
+servers.txt
+.refresh_interval
+
+# Local certificate store
+certs/
+
+# Temporary mount point
+mnt/
+
+# Generated reports
+report_*.txt
+
+# Generated example certificates
+example-certs/
